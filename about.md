@@ -11,7 +11,8 @@ Hack the box badge: <img src="https://www.hackthebox.eu/badge/image/111328" alt=
 
 ## Updates
 
-- [Instructor for Android workshop at PSNA Engineering college, Dindigul.](http://psnacet.edu.in/2019csereachp/RGP_0393.jpg) <span>*[Mar 7, 2019]*</span>
+- Co-Instructor for Android workshop at [Forge, Coimbatore](http://www.forgeforward.in/). <span>*[May 20-21, 2019]*</span>
+- [Instructor for Android workshop at PSNA Engineering college, Dindigul](http://psnacet.edu.in/2019csereachp/RGP_0393.jpg). <span>*[Mar 7, 2019]*</span>
 - Instructor for Node.js workshop at Kongu Engineering college, Erode. <span>*[Jan 20, 2019]*</span>
 - Speaker for Ubuntu hands-on session at College of Engineering, Guindy. <span>*[Nov 26, 2018]*</span>  
 <span><a href="/updates">[More updates..]</a></span>
