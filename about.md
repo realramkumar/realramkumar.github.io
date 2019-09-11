@@ -28,5 +28,5 @@ Hack the box badge: <img src="https://www.hackthebox.eu/badge/image/111328" alt=
 
 ## Downloads
 <p style="text-align: center;">
-    <a href="/static/public.pgp">&nbsp;&nbsp;<u>PGP key</u>&nbsp;&nbsp;</a>
+    <a href="https://keybase.io/realramkumar/pgp_keys.asc?fingerprint=7d5af5c7712b133ea70bfaa070b3920102e1f8c3">&nbsp;&nbsp;<u>PGP key</u>&nbsp;&nbsp;</a>
 </p>
