@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/realramkumar
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://realramkumar.github.io
+  * I am realramkumar (https://keybase.io/realramkumar) on keybase.
+  * I have a public key ASDRGnosdzRRaSI32reAxCe1W-ogGNGZrDsuHncoHsLzywo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d11a7a2c773451692237dab780c427b55bea2018d199ac3b2e1e77281ec2f3cb0a",
+      "host": "keybase.io",
+      "kid": "0120d11a7a2c773451692237dab780c427b55bea2018d199ac3b2e1e77281ec2f3cb0a",
+      "uid": "424189583d8a61e6433cbe0fd9bba919",
+      "username": "realramkumar"
+    },
+    "merkle_root": {
+      "ctime": 1568223418,
+      "hash": "4e025595990886e689d8c9bd270e8649980dc5519f1c04d259ef7933bcda5cc9dcfa99d68d85663117e2958a0de56f530af63cff953131b32343c6e735303c01",
+      "hash_meta": "b78c3c23058ef0325ac916be6da7d21f345786effaa09a44cf182115517d1788",
+      "seqno": 6775365
+    },
+    "service": {
+      "entropy": "W8NvU2HQdb/JFU/5ek7Yj3y2",
+      "hostname": "realramkumar.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.1"
+  },
+  "ctime": 1568223430,
+  "expire_in": 504576000,
+  "prev": "643569c98af268da1d88e8b2e8035b1afe77cacd1284f67feae95995f0d44456",
+  "seqno": 42,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg0Rp6LHc0UWkiN9q3gMQntVvqIBjRmaw7Lh53KB7C88sKp3BheWxvYWTESpcCKsQgZDVpyYryaNodiOiy6ANbGv53ys0ShPZ/6ulZlfDURFbEIHTEYq/UckIvn0LjldpXknkfZuDXMEO4Zo8nu3gpsPtFAgHCo3NpZ8RAkLkgLbQkeL12hknM2hoGcx7kkNfxRJiKBH0pQ4+HNiIqZDwxpIW8h87Dq9lfHF4BeIaSlUUJA1lC6HX/IUSWC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEY68uPX9yyIBfJJTGx++1XzAhs9Spzg/9GNhtHP5KQOo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/realramkumar
+
+==================================================================
